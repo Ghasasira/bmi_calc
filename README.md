@@ -5,7 +5,7 @@ The BMI Calculator App is a mobile application developed in Flutter that helps u
 
 ## Demo
 
-Insert gif or link to demo
+to be added
 
 
 ## Features
